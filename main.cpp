@@ -1,3 +1,8 @@
+/*
+    ELVIRA ALMASYA CAHYANI
+    A11.2021.13739
+    4302
+*/
 #include <iostream>
 using namespace std;
 #define MAX 10
